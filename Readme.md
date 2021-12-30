@@ -45,6 +45,9 @@ Train 과정에서는 2017 ~ 2019년 DTM 결과를 input으로 주고 2020 DTM �
 
 LSTM의 결과로 나온 2022년의 DTM result 예측값의 상위 50등 ~ 54등에 해당하는 키워드를 뽑아 input으로 넣는다. Input값이 중복되는 경우는 제거하였다.
 
+## Result
+https://github.com/YonseiAI-NLP-Group/Oracle-of-Arxiv/tree/master/Result
+
 ## Authors
 |김우영|김민정|김현식|동용훈|이종우|
 |:-:|:-:|:-:|:-:|:-:|
