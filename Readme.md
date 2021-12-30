@@ -1,3 +1,4 @@
+![스크린샷 2021-12-28 오후 7 10 34](https://user-images.githubusercontent.com/64018014/147735348-4cd9e261-c9f4-4d61-8dc0-8fa1f4b7d634.png)
 # Oracle of Arxiv : 신기술 예측을 위한 키워드 분석 및 문장 생성에 관한 연구
 
 ## Introduction
@@ -46,7 +47,7 @@ Train 과정에서는 2017 ~ 2019년 DTM 결과를 input으로 주고 2020 DTM �
 LSTM의 결과로 나온 2022년의 DTM result 예측값의 상위 50등 ~ 54등에 해당하는 키워드를 뽑아 input으로 넣는다. Input값이 중복되는 경우는 제거하였다.
 
 ## Result
-![스크린샷 2021-12-28 오후 7 10 34](https://user-images.githubusercontent.com/64018014/147735348-4cd9e261-c9f4-4d61-8dc0-8fa1f4b7d634.png)
+<img width="603" alt="스크린샷 2021-12-30 오후 5 36 41" src="https://user-images.githubusercontent.com/64018014/147735464-e807b312-7b39-4536-ab16-01bb70334cac.png">
 https://github.com/YonseiAI-NLP-Group/Oracle-of-Arxiv/tree/master/Result
 
 ## Authors
