@@ -51,7 +51,7 @@ LSTM의 결과로 나온 2022년의 DTM result 예측값의 상위 50등 ~ 54등
 https://github.com/YonseiAI-NLP-Group/Oracle-of-Arxiv/tree/master/Result
 
 ## Authors
-|김우영|김민정|김현식|동용훈|이종우|
-|:-:|:-:|:-:|:-:|:-:|
+|김우영|김민정|김현식|동용훈|
+|:-:|:-:|:-:|:-:|
 |<img src='https://avatars.githubusercontent.com/u/69796193?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/79957757?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/96718906?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/64018014?v=4' height=80 width=80px></img>||
-|[Github](https://github.com/coshin-ssl)|[Github](https://github.com/yjdong9697)|[Github](https://github.com/mjk0150)|[Github](https://github.com/hss05230)||
+|[Github](https://github.com/coshin-ssl)|[Github](https://github.com/yjdong9697)|[Github](https://github.com/mjk0150)|[Github](https://github.com/hss05230)|
